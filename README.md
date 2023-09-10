@@ -21,7 +21,7 @@ The scripts provided in this repository are offered as-is, without any warranty 
 
 ## Contact
 
-If you have any questions, suggestions, or concerns regarding this repository, please don't hesitate to contact us at [work.frog2005@gmail.com](mailto:work.frog2005@gmail.com).
+If you have any questions, suggestions, or concerns regarding this repository, please don't hesitate to contact us at [work.vectorvision@gmail.com](mailto:work.vectorvision@gmail.com).
 
 New script on Tiktok: https://www.tiktok.com/@vector_vision
 
